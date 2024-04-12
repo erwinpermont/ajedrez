@@ -1,0 +1,2 @@
+# ajedrez
+curso basico github
